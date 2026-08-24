@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Robot404a/Robot404a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student who enjoys turning ideas into practical software.
 
-Here are some ideas to get you started:
+I mostly work on full-stack and backend development, and I'm also exploring machine learning. I enjoy building projects, learning new technologies, and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I share some of the projects I've built, things I'm experimenting with, and what I'm currently learning.
+
+---
+
+## 🛠️ Tools & Tech
+
+* Java, React.js, Laravel
+* SQL, Flutter, XML
+* Backend & REST APIs
+* Machine Learning
+
+---
+
+## 🚀 What I'm Interested In
+
+* Full-Stack Development
+* Backend Engineering
+* Machine Learning & AI
+* Software Architecture
+* Technology & Startups
+
+---
+
+## 📌 A Bit About Me
+
+* 🎓 Software Engineering student
+* 💻 I enjoy building things from scratch
+* 🧠 Always learning something new
+* 🚀 Interested in technology and entrepreneurship
+* 🤝 Open to collaborating on interesting projects
