@@ -19,7 +19,7 @@ Building software, exploring new technologies, and solving real-world problems.
 
 ## 👨‍💻 About Me
 
-I'm a Master's student in **Software Engineering (Ingénierie Logicielle)** at FSA Agadir, Morocco.
+I'm a Software Engineering Student.
 
 I'm passionate about software architecture, full-stack development, distributed systems, and building practical solutions to real-world problems.
 
