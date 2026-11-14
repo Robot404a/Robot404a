@@ -4,17 +4,18 @@
 # Hi, I'm Hicham Amaadid 👋
 
 ### Software Engineering Student | Full-Stack Developer
+<img width="2640" height="2748" alt="Robot404a-portfolio" src="https://github.com/user-attachments/assets/b2869a1f-1809-425f-9b87-ca74b1fe039b" />
 
-I'm a Software Engineering student passionate about building useful software, exploring new technologies, and solving real-world problems.
-
+---
 [![GitHub](https://img.shields.io/badge/GitHub-Robot404a-181717?style=for-the-badge&logo=github)](https://github.com/Robot404a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hicham_Amaadid-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hichamamaadid/)
 
-[🌐 View My Portfolio](https://checkmygit.com/Robot404a?template=github&theme=dark)
+[![CheckMyGit](https://img.shields.io/badge/Explore_My_GitHub_Portfolio-00C7B7?style=for-the-badge&logo=github)](https://checkmygit.com/Robot404a?template=github&theme=dark)
+
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -38,18 +39,4 @@ React · Node.js · HTML · CSS · Docker
 
 Git · GitHub · Linux · VS Code
 
-## 📊 GitHub Portfolio
 
-Check out my projects, contributions, and coding activity:
-
-[![CheckMyGit](https://img.shields.io/badge/Explore_My_GitHub_Portfolio-00C7B7?style=for-the-badge&logo=github)](https://checkmygit.com/Robot404a?template=github&theme=dark)
-
----
-
-<div align="center">
-
-### Let's Connect!
-
-[GitHub](https://github.com/Robot404a) · [LinkedIn](https://www.linkedin.com/in/hichamamaadid/)
-
-</div>
