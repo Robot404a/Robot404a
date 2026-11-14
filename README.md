@@ -4,7 +4,15 @@
 # Hi, I'm Hicham Amaadid 👋
 
 ### Software Engineering Student | Full-Stack Developer
-<img width="2640" height="2748" alt="Robot404a-portfolio" src="https://github.com/user-attachments/assets/b2869a1f-1809-425f-9b87-ca74b1fe039b" />
+<div align="center">
+  <a href="https://checkmygit.com/Robot404a?template=github&theme=dark">
+    <img
+      src="https://github.com/user-attachments/assets/b2869a1f-1809-425f-9b87-ca74b1fe039b"
+      alt="Robot404a GitHub Portfolio"
+      width="100%"
+    />
+  </a>
+</div>
 
 ---
 [![GitHub](https://img.shields.io/badge/GitHub-Robot404a-181717?style=for-the-badge&logo=github)](https://github.com/Robot404a)
